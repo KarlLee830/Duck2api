@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 env:
-  GHCR_REPO: ghcr.io/aurora-develop/duck2api
+  GHCR_REPO: ghcr.io/karllee830/duck2api
 
 jobs:
   main:
